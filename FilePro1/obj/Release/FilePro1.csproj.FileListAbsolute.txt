@@ -1,0 +1,14 @@
+C:\Users\analystprogrammer2\Documents\Visual Studio 2015\Projects\FilePro1\FilePro1\bin\Release\FilePro1.exe.config
+C:\Users\analystprogrammer2\Documents\Visual Studio 2015\Projects\FilePro1\FilePro1\bin\Release\FilePro1.exe.manifest
+C:\Users\analystprogrammer2\Documents\Visual Studio 2015\Projects\FilePro1\FilePro1\bin\Release\FilePro1.application
+C:\Users\analystprogrammer2\Documents\Visual Studio 2015\Projects\FilePro1\FilePro1\bin\Release\FilePro1.exe
+C:\Users\analystprogrammer2\Documents\Visual Studio 2015\Projects\FilePro1\FilePro1\bin\Release\FilePro1.pdb
+C:\Users\analystprogrammer2\Documents\Visual Studio 2015\Projects\FilePro1\FilePro1\obj\Release\FilePro1.Form1.resources
+C:\Users\analystprogrammer2\Documents\Visual Studio 2015\Projects\FilePro1\FilePro1\obj\Release\FilePro1.Properties.Resources.resources
+C:\Users\analystprogrammer2\Documents\Visual Studio 2015\Projects\FilePro1\FilePro1\obj\Release\FilePro1.SplashScreen.resources
+C:\Users\analystprogrammer2\Documents\Visual Studio 2015\Projects\FilePro1\FilePro1\obj\Release\FilePro1.csproj.GenerateResource.Cache
+C:\Users\analystprogrammer2\Documents\Visual Studio 2015\Projects\FilePro1\FilePro1\obj\Release\FilePro1.exe.manifest
+C:\Users\analystprogrammer2\Documents\Visual Studio 2015\Projects\FilePro1\FilePro1\obj\Release\FilePro1.application
+C:\Users\analystprogrammer2\Documents\Visual Studio 2015\Projects\FilePro1\FilePro1\obj\Release\FilePro1.exe
+C:\Users\analystprogrammer2\Documents\Visual Studio 2015\Projects\FilePro1\FilePro1\obj\Release\FilePro1.pdb
+C:\Users\analystprogrammer2\documents\visual studio 2015\Projects\FilePro1\FilePro1\obj\Release\FilePro1.csprojResolveAssemblyReference.cache

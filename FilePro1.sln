@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 14 for Windows Desktop
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilePro1", "FilePro1\FilePro1.csproj", "{757C0E91-9864-4C02-87D0-CBD5C35A5DCB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C83F923C-0AC0-43B6-8C55-9719876FF45A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveLogViewer4", "..\Live_Log_Viewer_4_Source\LiveLogViewer4.csproj", "{8FCDCE2F-60A3-40E4-862F-015E6829AB05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{757C0E91-9864-4C02-87D0-CBD5C35A5DCB}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{757C0E91-9864-4C02-87D0-CBD5C35A5DCB}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{757C0E91-9864-4C02-87D0-CBD5C35A5DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{757C0E91-9864-4C02-87D0-CBD5C35A5DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FCDCE2F-60A3-40E4-862F-015E6829AB05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FCDCE2F-60A3-40E4-862F-015E6829AB05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FCDCE2F-60A3-40E4-862F-015E6829AB05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FCDCE2F-60A3-40E4-862F-015E6829AB05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
